@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">A passionate frontend developer from CESI (France)</h3>
+<h3 align="center">A passionate developer from CESI (France)</h3>
 
 - 🔭 I’m currently working on [mdp_gen](https://github.com/Team-Infernal/mdpgen)
 
