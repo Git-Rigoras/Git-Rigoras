@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **tristan.jehanno@orange.fr**
 
+- You can check all the projects I've done here: https://github.com/Git-Rigoras?tab=repositories
+
 <p align="left">
 </p>
 
