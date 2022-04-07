@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
 <h3 align="center">A passionate developer from CESI (France)</h3>
 
-- 🔭 I’m currently working on [mdp_gen](https://github.com/Team-Infernal/mdpgen)
+- 🔭 I’m currently working at Momenttech, as a tester, using the framework Cypress.js
 
 - 🌱 I’m currently learning **Web**
 
